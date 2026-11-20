@@ -1,0 +1,6 @@
+{
+  "name": "CICADA 2026 – Smart Observability",
+  "description": "Privacy-first AI-assisted IT monitoring platform with Egress Proof local sanitization, real-time host telemetry, incident alerting, and Gemini-powered root-cause analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
